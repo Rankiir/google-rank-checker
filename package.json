@@ -1,0 +1,26 @@
+{
+  "name": "rankiir-google-rank-checker",
+  "version": "1.0.0",
+  "description": "Google Rank Checker monitors your website's Google rankings and keyword positions daily",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "google-rank-checker",
+    "rank-checker",
+    "seo",
+    "google-rankings",
+    "keyword-tracking",
+    "serp",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Rankiir",
+  "license": "ISC",
+  "homepage": "https://rankiir.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rankiir/google-rank-checker.git"
+  }
+}
